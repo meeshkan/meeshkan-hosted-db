@@ -1,5 +1,5 @@
 # meeshkan-hosted-db
-Utility python package to access a Cloud SQL database on meeshkan.io
+Utility python package to access a Cloud SQL database on [meeshkan.io](https://meeshkan.io).
 
 ```python
 from meeshkan_hosted_db import connect_to_db
